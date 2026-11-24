@@ -1,0 +1,35 @@
+{
+  "name": "opencode-todo",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Session todo list plugin for OpenCode",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/juliano340/opencode-todo.git"
+  },
+  "type": "module",
+  "exports": {
+    ".": "./src/index.ts",
+    "./tui": "./src/tui.tsx",
+    "./rpc": "./src/rpc.ts"
+  },
+  "files": [
+    "src"
+  ],
+  "dependencies": {
+    "@opencode/plugin": "^2.4.1"
+  },
+  "devDependencies": {
+    "@opencode/theme": "^2.4.1",
+    "@opentui/core": ">=0.6.6",
+    "@opentui/solid": ">=0.6.6",
+    "@types/bun": "^1.4.5",
+    "solid-js": ">=1.9.0",
+    "typescript": "^5.6.0"
+  },
+  "peerDependencies": {
+    "@opentui/core": ">=0.6.6",
+    "@opentui/solid": ">=0.6.6",
+    "solid-js": ">=1.9.0"
+  }
+}
