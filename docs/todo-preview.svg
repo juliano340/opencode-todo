@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="348" viewBox="0 0 720 348" role="img" aria-labelledby="title desc">
+  <title id="title">Exemplo da lista de todos do opencode-todo</title>
+  <desc id="desc">Terminal escuro mostrando cinco tarefas: duas concluídas, uma em andamento em amarelo e duas pendentes.</desc>
+  <rect x="1" y="1" width="718" height="346" rx="14" fill="#0d1117" stroke="#30363d"/>
+  <path d="M1 15a14 14 0 0 1 14-14h690a14 14 0 0 1 14 14v33H1z" fill="#161b22"/>
+  <path d="M1 48h718" stroke="#30363d"/>
+  <circle cx="24" cy="24" r="6" fill="#f85149"/>
+  <circle cx="44" cy="24" r="6" fill="#d29922"/>
+  <circle cx="64" cy="24" r="6" fill="#3fb950"/>
+  <text x="88" y="29" fill="#c9d1d9" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="14">opencode-todo</text>
+  <text x="674" y="29" fill="#8b949e" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="12">sidebar</text>
+
+  <text x="32" y="88" fill="#e6edf3" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="19" font-weight="700">Todos 2/5</text>
+
+  <g font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="16">
+    <text x="36" y="130" fill="#3fb950">✓</text>
+    <text x="58" y="130" fill="#8b949e">Revisar implementação da API</text>
+
+    <text x="36" y="166" fill="#3fb950">✓</text>
+    <text x="58" y="166" fill="#8b949e">Adicionar testes de integração</text>
+
+    <text x="36" y="202" fill="#e3b341">▸</text>
+    <text x="58" y="202" fill="#e3b341">Implementar painel de progresso com</text>
+    <text x="58" y="228" fill="#e3b341">atualização em tempo real</text>
+
+    <text x="36" y="264" fill="#6e7681">•</text>
+    <text x="58" y="264" fill="#e6edf3">Atualizar documentação</text>
+
+    <text x="36" y="300" fill="#6e7681">•</text>
+    <text x="58" y="300" fill="#e6edf3">Publicar release</text>
+  </g>
+
+  <text x="32" y="332" fill="#6e7681" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="12">D:\Projetos\exemplo:main</text>
+</svg>

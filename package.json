@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "description": "Session todo list plugin for OpenCode",
+  "license": "MIT",
   "repository": {
     "type": "git",
     "url": "https://github.com/juliano340/opencode-todo.git"

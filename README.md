@@ -2,6 +2,8 @@
 
 Plugin do [OpenCode](https://opencode.ai) com lista de tarefas por sessão. O agente cria e atualiza os itens pelas ferramentas `todo_write` e `todo_list`; a TUI mostra o progresso na sidebar e num painel aberto por `/todos`.
 
+![Prévia da lista de todos na sidebar](docs/todo-preview.svg)
+
 ## Recursos
 
 - Lista por sessão, persistida no storage do OpenCode.
@@ -102,3 +104,7 @@ npx tsc --noEmit
 ```
 
 Requisitos: API de plugins da TUI do OpenCode e runtime compatível com Bun, conforme `package.json`.
+
+## Licença
+
+[MIT](LICENSE) © 2026 Juliano Pereira.
