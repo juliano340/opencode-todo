@@ -1,5 +1,7 @@
 # opencode-todo
 
+[Português](README.md) · [English](README.en.md) · [Español](README.es.md) · [Français](README.fr.md) · [Italiano](README.it.md) · [Русский](README.ru.md) · [हिन्दी](README.hi.md) · [中文](README.zh.md) · [日本語](README.ja.md)
+
 Plugin do [OpenCode](https://opencode.ai) com lista de tarefas por sessão. O agente cria e atualiza os itens pelas ferramentas `todo_write` e `todo_list`; a TUI mostra o progresso na sidebar e num painel aberto por `/todos`.
 
 ![Prévia da lista de todos na sidebar](docs/todo-preview.svg)
